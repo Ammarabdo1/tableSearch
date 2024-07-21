@@ -14,16 +14,26 @@
 // }
 
 .website{
+    text-align: center;
     h1{
         width: 400px;
         margin: auto;
         line-height: 90px;
+        color: blueviolet;
+    }
+
+    span{
+        color: rgb(0, 121, 96);
     }
 
     p{
         width: 400px;
         margin: auto;
         line-height: 90px;
+    }
+
+    #title{
+        color: green;
     }
     
     .form{

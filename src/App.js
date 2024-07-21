@@ -14,16 +14,16 @@ const App = () => {
 
      {/* {printProducts} */}
 
-     {/* <br/> */} 
+     {/* <br/> 
      
-     {/* <Map/> */}
+     <Map/> */}
 
-     {/*//! axios Api  */}
-      {/* <Profile/> */}
+     {/* //! axios Api  */}
+      <Profile/>
 
       
 
-      <Table1/>
+      {/* <Table1/> */}
     </div>
   )
 }

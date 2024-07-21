@@ -1,12 +1,22 @@
+.website {
+  text-align: center;
+}
 .website h1 {
   width: 400px;
   margin: auto;
   line-height: 90px;
+  color: blueviolet;
+}
+.website span {
+  color: rgb(0, 121, 96);
 }
 .website p {
   width: 400px;
   margin: auto;
   line-height: 90px;
+}
+.website #title {
+  color: green;
 }
 .website .form {
   width: 70%;
